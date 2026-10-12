@@ -1,0 +1,5 @@
+customer_id,tenure,monthly_charges,contract,partner,churn
+C001,12,29.99,Month-to-month,Yes,No
+C002,5,49.99,Month-to-month,No,Yes
+C003,36,19.99,Two year,Yes,No
+C004,2,99.99,Month-to-month,No,Yes
